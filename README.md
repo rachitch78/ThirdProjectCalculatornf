@@ -1,2 +1,2 @@
 # ThirdProjectCalculatornf
-Non functioning calculator with html and css
+Front end of a calculator with html and css
